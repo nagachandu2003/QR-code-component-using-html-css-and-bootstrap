@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "outfit";
+}
+
+.bg {
+    background-color: #D6E2F0;
+    height: 100vh;
+}
+
+.image {
+    width: 300px;
+    height:300px;
+    border-radius:20px;
+}
+
+#head{
+    font-weight: bold;
+    color: #1F3251;
+    font-size:22px;
+}
+p {
+    font-weight: 400;
+    color: #8A94A8;
+}
+
+.card {
+    max-width: 350px;;
+}
